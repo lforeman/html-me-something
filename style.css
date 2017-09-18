@@ -1,0 +1,49 @@
+header {
+    width:100%;
+    background-image:url("images/road1.jpg") ;
+    background-position: top;
+    text-align: center;
+    font-size: 400%;
+    font-family: halvetica;
+    color: floralwhite;
+    margin-bottom: 100px;
+}
+p { 
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+}
+
+p {
+    #font-size: 20px;
+}
+
+img {
+    display: block;
+    max-width:750px;
+    max-height:750px;
+    width: auto;
+    height: auto;
+    #float: left;
+    margin: 0 0 10px 10px;
+  }
+table {
+    font-size: 36px;
+    margin-bottom: 100px;
+}
+body {
+    background-color: aqua;
+}
+
+article {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
